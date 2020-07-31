@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{72:function(o){o.exports=JSON.parse('{"allTagsPath":"/fpd-docs/blog/tags","slug":"novedades","name":"novedades","count":1,"permalink":"/fpd-docs/blog/tags/novedades"}')}}]);
